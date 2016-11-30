@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ExtensionManifest Version="4.0"
                    ExtensionBundleId="com.project.template"
-                   ExtensionBundleVersion="1.0.0"
+                   ExtensionBundleVersion="0.0.1"
                    ExtensionBundleName="template"
                    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
     <Author><![CDATA[Marat Shagiev]]></Author>
@@ -13,8 +13,8 @@
         ]]>
     </Abstract>
     <ExtensionList>
-        <Extension Id="com.project.template" Version="1.0.0"/>
-        <!--<Extension Id="com.project.template.settings" Version="1.0.0" />-->
+        <Extension Id="com.project.template" Version="0.0.1"/>
+        <!--<Extension Id="com.project.template.settings" Version="0.0.1" />-->
     </ExtensionList>
     <ExecutionEnvironment>
         <HostList>
